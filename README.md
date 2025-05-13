@@ -1,7 +1,6 @@
 Opsætningsvejledning – AI Chatbot Prototype
 
 Følg nedenstående trin for at køre chatbot-løsningen korrekt i udviklingsmiljøet. 
-En API-nøgle bør allerede være indsat i projektet, men du kan følge nedenstående trin, hvis det ikke er tilfældet.
 
 ---
 Hent din gratis API-nøgle
